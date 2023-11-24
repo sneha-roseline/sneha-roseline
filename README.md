@@ -6,11 +6,11 @@
 
 I'm a versatile data engineer specializing in cloud technologies, big data, and data analysis. Leveraging expertise to architect scalable solutions, design efficient data pipelines, and drive actionable insights for informed decision-making in the ever-evolving landscape of data-driven technologies.
 
-⭐ &nbsp;You can find my projects in the repositories section.
-
 🌱 &nbsp;I’m currently learning DevSecOps & Cloud Devops
 
 🧩 &nbsp;Passionate about solving challenges.
+
+⭐ &nbsp;You can find my projects in the repositories section.
 
 📫 &nbsp;You can reach me at **roseline.dataengineer@gmail.com**
 
