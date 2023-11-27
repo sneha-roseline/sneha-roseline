@@ -4,7 +4,7 @@
 
 <img align="right" alt="GIF" src="https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif?raw=true" width="450" height="300"/>
 
-I'm a versatile data engineer specializing in cloud technologies, big data, and data analysis. Leveraging expertise to architect scalable solutions, design efficient data pipelines, and drive actionable insights for informed decision-making in the ever-evolving landscape of data-driven technologies.
+A versatile data engineer specializing in cloud technologies, big data, and data analysis. Leveraging expertise to architect scalable solutions, design efficient data pipelines, and drive actionable insights for informed decision-making in the ever-evolving landscape of data-driven technologies.
 
 🌱 &nbsp;I’m currently learning DevSecOps & Cloud Devops
 
@@ -12,7 +12,7 @@ I'm a versatile data engineer specializing in cloud technologies, big data, and 
 
 ⭐ &nbsp;You can find my projects in the repositories section.
 
-📫 &nbsp;You can reach me at **roseline.dataengineer@gmail.com**
+📫 &nbsp;Reach me at **roseline.dataengineer@gmail.com**
 
 
 <!---
